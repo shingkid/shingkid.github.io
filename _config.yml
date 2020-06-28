@@ -42,7 +42,7 @@ plainwhite:
     # - username: jekyll2
     #   instance: example.com
 
-# analytics_id: UA-158859179-2
+# analytics_id: "UA-158859179-2"
   google_analytics: UA-158859179-2
 
 # If you want to link only specific pages in your header, uncomment
