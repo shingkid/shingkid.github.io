@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Jane Seah
-  tagline: Software Engineer. Amateur music & film critic.
+  tagline: Software Engineer.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
