@@ -1,10 +1,10 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: A Wishful Polyhistor
+author: shingkid
+email: seah.jane@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  An attempt to overcome chronic procrastination by exempting myself from 
+  all content restrictions (other than NSFW). I take at stab at chronicling 
+  any sort of learning I undertake, be it in computing, music, film, or politics.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -12,8 +12,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: Jane Seah
+  tagline: Software Engineer. Amateur music & film critic.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -23,20 +23,18 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: samarsault
-    github:  samarsault
-    linkedIn: in/samarsault
-    #rss: rss
-    #dribbble: jekyll
-    #flickr:   jekyll
-    #instagram: jekyll
-    #pinterest: jekyll
-    #youtube: jekyll
-    #facebook: jekyll
-    #soundcloud: jekyll
-    #telegram: jekyll
-    #gitlab: jekyll
-
+    # twitter: thoughtchild
+    github: shingkid
+    linkedIn: in/janeseah
+    rss: rss
+    # dribbble: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # facebook: jekyll
+    # soundcloud: jekyll
+    telegram: janeseah
     # Mastodon instances
     # mastodon:
     # - username: jekyll
@@ -55,3 +53,5 @@ theme: plainwhite
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
+remote_theme: thelehhman/plainwhite-jekyll
