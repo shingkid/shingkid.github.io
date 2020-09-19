@@ -33,3 +33,5 @@ I wanted to go into more detail on some of our findings, but unfortunately I'm u
 
 ## Conclusion
 Our investigation ultimately drew a strong relationship between COVID-19 and mobility across the globe. In Singapore, we saw a decline in sales for non-essential goods like jewellery, clothings, and apparels when approaching the lockdown period. Unsurprisingly, the sales for supermarkets, hypermarkets, mini-marts, and convenience stores rose in contrast to the latter as people stocked up more essential goods in fear of a complete lockdown. There was also a noticeable effect on air quality as measured by PM2.5, supporting our postulation that reduced human activty had a significant impact on the environment.
+
+To be honest, I was really impressed with some of the other teams from APAC, so it came as quite a surprise to have passed both rounds of judging to represent APAC before a panel of executives next week.
