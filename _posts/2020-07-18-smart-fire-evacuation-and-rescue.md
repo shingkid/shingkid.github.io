@@ -57,7 +57,8 @@ It was a competition requirement that we use at least one IBM Cloud offering - w
 We served our React dashboard from **AWS Simple Storage Service**.
 
 ## Conclusion
-I was really proud of what my team was able to come up with in just 48 hours. On reflection, I believe these are what enabled us to work so well together:
+I was really proud of what my team was able to come up with in just 48 hours. On reflection, I believe these are what enabled us to work so well together and even emerge champions:
+- Critical thinking
 - Complementary, diverse skill sets
 - Initiative
 - Frequent communication
