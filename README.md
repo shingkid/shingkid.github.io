@@ -2,7 +2,7 @@
 
 Simplistic jekyll portfolio-style theme for writers.
 
-**Demo**: [thelehhman.com](https://thelehhman.com)
+**Demo**: [samarsault.com](https://samarsault.com)
 
 ![plainwhite theme preview](/screenshot.png)
 
@@ -122,6 +122,21 @@ plainwhite:
     - title: Resume
       url: "/resume"
 ```
+
+**Mobile**
+
+By default, Plainwhite places the sidebar (logo, name, tagline etc.) above the content on mobile (narrow screens).
+To condense it (moving some things to the bottom of the page and making the rest smaller) so it takes up less space, add the following to your `_config.yml`:
+
+```yaml
+plainwhite:
+  condensed_mobile:
+    - home
+    - post
+    - page
+```
+
+This chooses which layouts (types of page) should be condensed on mobile screens. E.g. if you want everything but the landing page to be condensed, remove `home` from the list. This option does not affect rendering on wider screens.
 
 **Dark mode**
 

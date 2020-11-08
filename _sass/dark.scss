@@ -5,7 +5,7 @@
 	background-color: #171717;
 	color: $dark_text_color;
 	border-color: #e6e6e6;
-	
+
 	.about{
 		img.light {
 			display: none;
@@ -14,9 +14,12 @@
 			display: inline;
 		}
 	}
+	.post p {
+		color: #ddd;
+	}
 
 	.social [class^="icon-"] {
-		color: $dark_text_color 
+		color: $dark_text_color
 	}
 
 	#posts-label {
@@ -25,7 +28,7 @@
 	}
 
 	@import 'ext/solarized-dark';
-	.highlight, .highlight * 
+	.highlight, .highlight *
 	{
 		background-color: #00080a;
 		color: #93a1a1;
@@ -59,6 +62,7 @@
 
 	.posts-labelgroup {
 
+		border-bottom: 1px solid #333;
 		.search-results {
 			background-color: #333;
 
@@ -70,12 +74,12 @@
 				}
 			}
 		}
-	
+
 		.search-section i {
 			background-color: transparent;
 		}
 	}
-	
+
 	.posts-labelgroup:hover {
 
 		i {
@@ -89,7 +93,7 @@
 
 
 	.posts-labelgroup.focus-within {
-	
+
 		.search-section {
 			background-color: #333;
 		}
